@@ -1,0 +1,4 @@
+Main.class
+org\kevinreyes\webapp\servlet\ProductosServlet.class
+org\kevinreyes\webapp\util\JPAUtil.class
+org\kevinreyes\webapp\model\Producto.class
